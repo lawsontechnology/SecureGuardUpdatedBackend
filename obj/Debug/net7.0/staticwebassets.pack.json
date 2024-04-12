@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\CredentialPictures\\visitor1.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\visitor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\CredentialPictures\\visitor2.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\visitor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\CredentialPictures\\visitor4.jpeg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\visitor4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\QRcodes\\09e1d4d7-774c-4039-839a-633b1f8584e1_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\09e1d4d7-774c-4039-839a-633b1f8584e1_QRCode.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\QRcodes\\43423889-a135-4a7f-9046-d7e442104f07_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\43423889-a135-4a7f-9046-d7e442104f07_QRCode.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\QRcodes\\5528cbc2-4fce-40f6-b419-df46fb6aecb1_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\5528cbc2-4fce-40f6-b419-df46fb6aecb1_QRCode.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\QRcodes\\6b339620-1934-4aa4-9fe4-89c032062f95_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\6b339620-1934-4aa4-9fe4-89c032062f95_QRCode.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\SecureGuard-main\\wwwroot\\QRcodes\\fa7643e5-3370-4b82-b147-612db06623ea_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\fa7643e5-3370-4b82-b147-612db06623ea_QRCode.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Visitor Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Visitor Management System.props",
+      "PackagePath": "build\\Visitor Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Visitor Management System.props",
+      "PackagePath": "buildMultiTargeting\\Visitor Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Visitor Management System.props",
+      "PackagePath": "buildTransitive\\Visitor Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

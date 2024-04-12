@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Core",
+    "\\Core\\Application",
+    "\\Core\\Application\\Implementation",
+    "\\Core\\Application\\Implementation\\Services"
+  ],
+  "SelectedNode": "\\Core\\Application\\Implementation\\Services\\ExcelService.cs",
+  "PreviewInSolutionExplorer": false
+}
